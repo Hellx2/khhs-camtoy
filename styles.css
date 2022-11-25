@@ -1,0 +1,29 @@
+h1, h2 {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+h3 {
+  color: gray;
+  text-align: center;
+}
+.ctr {
+  display: block;
+  color: black;
+  text-align: center;
+  margin: 0% 15%;
+}
+.ctr p {
+  display: block;
+  width: 100%;
+}
+.ctr1 {
+  display: flex;
+  margin: 0% 25%;
+}
+ul.left {
+  align-self: left;
+}
+img {
+  display: block;
+}
